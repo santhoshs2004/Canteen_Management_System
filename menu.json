@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "name": "Veg Sandwich",
+        "price": 50.0,
+        "category": "Snacks",
+        "available": true
+    },
+    {
+        "id": 21,
+        "name": "French Fries",
+        "price": 40.0,
+        "category": "Snacks",
+        "available": true
+    },
+    {
+        "id": 3,
+        "name": "Bread Omelette",
+        "price": 40.0,
+        "category": "Snacks",
+        "available": true
+    },
+    {
+        "id": 4,
+        "name": "Veg Burger",
+        "price": 60.0,
+        "category": "Snacks",
+        "available": true
+    },
+    {
+        "id": 5,
+        "name": "Paneer Sandwich",
+        "price": 80.0,
+        "category": "Snacks",
+        "available": true
+    },
+    {
+        "id": 6,
+        "name": "Lemon Juice",
+        "price": 30.0,
+        "category": "Fresh Juice",
+        "available": true
+    },
+    {
+        "id": 7,
+        "name": "Dragon fruit ",
+        "price": 110.0,
+        "category": "Fresh Juice",
+        "available": true
+    },
+    {
+        "id": 8,
+        "name": "Grape Juice",
+        "price": 60.0,
+        "category": "Fresh Juice",
+        "available": true
+    },
+    {
+        "id": 9,
+        "name": "Fig Juice",
+        "price": 80.0,
+        "category": "Fresh Juice",
+        "available": true
+    },
+    {
+        "id": 10,
+        "name": "Veg fried rice",
+        "price": 70.0,
+        "category": "Main Course",
+        "available": true
+    },
+    {
+        "id": 11,
+        "name": "Chicken Briyani",
+        "price": 140.0,
+        "category": "Main Course",
+        "available": true
+    },
+    {
+        "id": 12,
+        "name": "Paneer fried rice",
+        "price": 120.0,
+        "category": "Main Course",
+        "available": true
+    },
+    {
+        "id": 13,
+        "name": "Full Meals",
+        "price": 150.0,
+        "category": "Main Course",
+        "available": true
+    },
+    {
+        "id": 14,
+        "name": "Brocolli fry",
+        "price": 200.0,
+        "category": "Side Dish",
+        "available": true
+    },
+    {
+        "id": 15,
+        "name": "Egg fry",
+        "price": 60.0,
+        "category": "Side Dish",
+        "available": true
+    },
+    {
+        "id": 16,
+        "name": "Mocktail",
+        "price": 280.0,
+        "category": "Beverage",
+        "available": true
+    },
+    {
+        "id": 17,
+        "name": "8pm ",
+        "price": 1100.0,
+        "category": "Beverage",
+        "available": true
+    },
+    {
+        "id": 18,
+        "name": "choco lava cake",
+        "price": 110.0,
+        "category": "Dessert",
+        "available": true
+    }
+]
