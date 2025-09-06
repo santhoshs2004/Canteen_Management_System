@@ -70,13 +70,28 @@ cd C:\Users\Admin\canteen\system
 python canteen.py
 
 ```
+
+
+
 My application: 
 
 <img width="1061" height="611" alt="Screenshot 2025-09-06 180148" src="https://github.com/user-attachments/assets/ec82a7f9-6ec3-48d9-b9bd-4a89a3d9c48d" />
 
 
 
+
+
+
+
+
 <img width="1920" height="1080" alt="Screenshot 2025-09-06 200057" src="https://github.com/user-attachments/assets/30c7ed84-eb3e-45ae-a9b6-879b3f1c26fa" />
+
+
+
+
+
+
+
 
 
 
@@ -86,12 +101,32 @@ My application:
 
 
 
+
+
+
+
+
+
+
+
 <img width="1920" height="1080" alt="Screenshot 2025-09-06 200124" src="https://github.com/user-attachments/assets/8b3bc0f7-060e-4d00-af28-3369abee5dc6" />
 
 
 
 
+
+
+
+
+
 <img width="1920" height="1080" alt="Screenshot 2025-09-06 200157" src="https://github.com/user-attachments/assets/2ff32a51-5b92-4adb-8943-e39b8da052c7" />
+
+
+
+
+
+
+
 
 
 
@@ -102,7 +137,19 @@ My application:
 
 
 
+
+
+
+
+
+
+
 <img width="1920" height="1080" alt="Screenshot 2025-09-06 200344" src="https://github.com/user-attachments/assets/4ca11daa-d4b6-4898-b3f3-5421e8d9491b" />
+
+
+
+
+
 
 
 
@@ -115,6 +162,10 @@ My application:
 
 
 <img width="1920" height="1080" alt="Screenshot 2025-09-06 200402" src="https://github.com/user-attachments/assets/b3d7a0ea-63d1-4370-a964-3512a14b2adc" />
+
+
+
+
 
 
 
